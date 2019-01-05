@@ -1,2 +1,3 @@
+# -*- coding: utf-8 -*-
 # nwdiy
-NW-DIY in golang
+golang で作る NW-diY
